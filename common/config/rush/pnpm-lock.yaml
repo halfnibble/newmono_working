@@ -17,7 +17,6 @@ packages:
       integrity: sha512-DbEiTVA4ozU3Ggxupk3bAJrdbsEmKf26zmthk2gcwAQwgrQaxkQ8j4MHimMyHhdSKB+Dr8658iRZzZDC1uGpwg==
       tarball: 'file:projects/projectb.tgz'
     version: 0.0.0
-registry: ''
 specifiers:
   '@rush-temp/projecta': 'file:./projects/projecta.tgz'
   '@rush-temp/projectb': 'file:./projects/projectb.tgz'
