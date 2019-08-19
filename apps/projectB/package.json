@@ -1,0 +1,12 @@
+{
+  "name": "project-b",
+  "version": "1.0.0",
+  "description": "Another cool project",
+  "main": "index.js",
+  "scripts": {
+    "test": "cat index.js",
+    "build": "echo \"Done.\""
+  },
+  "author": "Josh",
+  "license": "MIT"
+}
