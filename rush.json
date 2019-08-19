@@ -286,14 +286,14 @@
    */
   "projects": [
     {
-      "packageName": "project-a",
-      "projectFolder": "apps/projectA",
+      "packageName": "projecta",
+      "projectFolder": "apps/projecta",
       "reviewCategory": "libraries",
       "shouldPublish": true
     },
     {
-      "packageName": "project-b",
-      "projectFolder": "apps/projectB",
+      "packageName": "projectb",
+      "projectFolder": "apps/projectb",
       "reviewCategory": "libraries",
       "shouldPublish": true
     }

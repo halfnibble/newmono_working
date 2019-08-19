@@ -1,5 +1,5 @@
 {
-  "name": "project-a",
+  "name": "projecta",
   "version": "1.0.0",
   "description": "Cool stuff",
   "main": "index.js",
@@ -8,5 +8,8 @@
     "build": "echo \"Done.\""
   },
   "author": "Josh",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "projectb": "~1.0.0"
+  }
 }

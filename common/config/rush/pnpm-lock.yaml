@@ -1,22 +1,23 @@
 dependencies:
-  '@rush-temp/project-a': 'file:projects/project-a.tgz'
-  '@rush-temp/project-b': 'file:projects/project-b.tgz'
+  '@rush-temp/projecta': 'file:projects/projecta.tgz'
+  '@rush-temp/projectb': 'file:projects/projectb.tgz'
 lockfileVersion: 5
 packages:
-  'file:projects/project-a.tgz':
+  'file:projects/projecta.tgz':
     dev: false
-    name: '@rush-temp/project-a'
+    name: '@rush-temp/projecta'
     resolution:
-      integrity: sha512-aBwuRneEzIftYVapdJZepwAjjtUK1jWnd6pMCfTQprMDUmQUMFeu5wsdyi/D1KPw1Qv+h/cZoXgxuAez2Sa+VQ==
-      tarball: 'file:projects/project-a.tgz'
+      integrity: sha512-T+3OxurzILOSGtHMdqp5cGfC2tdcqzMBGEUKp7xCX1Ng+6pB3MGkNlRfqwM4F0kDY2QAf9IabIjI2U7Sh2Mx8g==
+      tarball: 'file:projects/projecta.tgz'
     version: 0.0.0
-  'file:projects/project-b.tgz':
+  'file:projects/projectb.tgz':
     dev: false
-    name: '@rush-temp/project-b'
+    name: '@rush-temp/projectb'
     resolution:
-      integrity: sha512-fPdiHIow7kMAY0MU0A4AKB1MkyQgobN3v1ldY4lBxS8QxHV/lMzxVFRhmhKSZGNO3qwN/MWDwRWGV3eFrpfl9w==
-      tarball: 'file:projects/project-b.tgz'
+      integrity: sha512-DbEiTVA4ozU3Ggxupk3bAJrdbsEmKf26zmthk2gcwAQwgrQaxkQ8j4MHimMyHhdSKB+Dr8658iRZzZDC1uGpwg==
+      tarball: 'file:projects/projectb.tgz'
     version: 0.0.0
+registry: ''
 specifiers:
-  '@rush-temp/project-a': 'file:./projects/project-a.tgz'
-  '@rush-temp/project-b': 'file:./projects/project-b.tgz'
+  '@rush-temp/projecta': 'file:./projects/projecta.tgz'
+  '@rush-temp/projectb': 'file:./projects/projectb.tgz'
